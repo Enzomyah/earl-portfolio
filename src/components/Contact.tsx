@@ -41,7 +41,7 @@ export const Contact: React.FC<ContactProps> = ({ resumeHref }) => {
               </h2>
 
               <p className="text-base sm:text-lg text-slate-300 leading-relaxed font-normal max-w-lg">
-                I'm open to internship opportunities, learning experiences, and collaboration. Feel free to reach out.
+                Have a project in mind or interested in collaborating? I'm always open to connecting with fellow developers, designers, and professionals. Feel free to reach out to discuss ideas, share knowledge, or explore opportunities to create something meaningful together.
               </p>
 
               {/* Action Buttons */}

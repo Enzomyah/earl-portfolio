@@ -3,11 +3,11 @@ import { Project, SkillCategory, ExperienceItem } from '../types';
 export const personalInfo = {
   name: "Earl Lawrence C. Cipres",
   shortName: "Earl Lawrence Cipres",
-  role: "Aspiring Frontend Developer & UI/UX Designer",
-  bio: "I'm a fourth-year Information Technology student passionate about creating user-friendly digital experiences, developing web applications, and learning modern technologies.",
+  role: "Frontend Developer & UI/UX Designer",
+  bio: "I'm a fourth-year Information Technology student passionate about frontend development, UI/UX design, and building user-friendly digital experiences. I enjoy transforming ideas into functional applications while continuously improving my skills and exploring new technologies.",
   aboutParagraphs: [
-    "I'm an Information Technology student at the University of Nueva Caceres with an interest in frontend development, UI/UX design, and system development.",
-    "Through academic projects, I have gained experience designing interfaces, building web applications, and collaborating with a team. I'm continuously improving my technical skills and exploring new technologies."
+    "I'm a fourth-year Bachelor of Science in Information Technology student at the University of Nueva Caceres, with a strong interest in frontend development, UI/UX design, and system development. I enjoy creating clean, responsive, and user-friendly applications that provide practical solutions to real-world problems.",
+    "Through my academic and personal projects, I've gained hands-on experience in designing interfaces, developing web and mobile applications, and working with a team. I enjoy learning new technologies, improving my problem-solving skills, and taking on creative challenges that help me grow as a developer and designer."
   ],
   education: {
     university: "University of Nueva Caceres",
@@ -17,10 +17,10 @@ export const personalInfo = {
     startYear: "2023",
     endYear: "2027",
     progressPercent: 75,
-    status: "Seeking internship opportunities"
+    status: "Currently Pursuing My BSIT Degree"
   },
   location: "Naga City, Philippines",
-  availability: "Open to internships",
+  availability: "Open to Collaborations",
   socials: {
     github: "https://github.com/Enzomyah",
     githubDisplay: "github.com/Enzomyah",

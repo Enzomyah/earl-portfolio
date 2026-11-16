@@ -32,7 +32,7 @@ export const Hero: React.FC<HeroProps> = ({ resumeHref }) => {
 
             {/* Subtitle */}
             <p className="text-xl sm:text-2xl font-semibold text-slate-200">
-              Aspiring <span className="text-indigo-400">Frontend Developer</span> &{' '}
+              <span className="text-indigo-400">Frontend Developer</span> &{' '}
               <span className="text-purple-400">UI/UX Designer</span>
             </p>
 
